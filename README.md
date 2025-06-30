@@ -28,4 +28,4 @@ A very friendly Python program that helps you manage exam schedules via the term
 
 4. **Run the Program**  
    ```bash
-   python exam_scheduler.py
+   python Scheduler.py
